@@ -1,3 +1,6 @@
 [submodule "SecondHW"]
 	path = SecondHW
 	url = https://github.com/AlexandriaObraz/SecondHW.git
+[submodule "FirstHW"]
+	path = FirstHW
+	url = https://github.com/AlexandriaObraz/FirstHW
